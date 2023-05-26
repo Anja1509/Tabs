@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.addTab(tabLayout.newTab().setText("Milchprodukte"));
         tabLayout.addTab(tabLayout.newTab().setText("Anderes"));
         tabLayout.setTabMode(TabLayout.MODE_FIXED);
+
     }
 }
